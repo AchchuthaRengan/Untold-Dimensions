@@ -131,7 +131,7 @@
 
  @font-face {
   font-family: "MonumentExtended-UltraBold";
-  src: url("./fonts/MonumentExtended-Ultrabold.otf");       
+  src: url("../fonts/MonumentExtended-Ultrabold.otf");       
 }
 
 :root {
